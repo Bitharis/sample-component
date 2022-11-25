@@ -1,0 +1,31 @@
+{
+  "id": "ASCC",
+  "name": "AXIS Sample Certificate Component",
+  "version": "1.0.0",
+  "commands": {
+    "install": {
+      "executable": "SampleComponent.exe",
+      "arguments": "install"
+    },
+    "uninstall": {
+      "executable": "SampleComponent.exe",
+      "arguments": "uninstall"
+    },
+    "start": {
+      "executable": "SampleComponent.exe",
+      "arguments": "start"
+    },
+    "stop": {
+      "executable": "SampleComponent.exe",
+      "arguments": "stop"
+    },
+    "getStatus": {
+      "executable": "SampleComponent.exe",
+      "arguments": "status"
+    },
+    "backup": {
+      "executable": "SampleComponent.exe",
+      "arguments": "backup"
+    }
+  }
+}
